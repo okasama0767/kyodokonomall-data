@@ -1,0 +1,300 @@
+{
+  "updatedAt": "2026-11-13",
+  "total": 36,
+  "counts": {
+    "愛知県": 18,
+    "岐阜県": 5,
+    "三重県": 6,
+    "静岡県": 7
+  },
+  "centers": [
+    {
+      "id": "housing-01",
+      "prefecture": "愛知県",
+      "name": "鳴海ハウジングセンター",
+      "city": "名古屋市緑区",
+      "officialUrl": "https://www.yutori.gr.jp/knowledge/find-house/house-exhibition/",
+      "officialLinkLabel": "会場情報"
+    },
+    {
+      "id": "housing-02",
+      "prefecture": "愛知県",
+      "name": "新・神宮東中日ハウジングセンター",
+      "city": "名古屋市熱田区",
+      "officialUrl": "https://www.chunichi-hc.ne.jp/event/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-03",
+      "prefecture": "愛知県",
+      "name": "CBCハウジング 名駅北",
+      "city": "名古屋市西区",
+      "officialUrl": "https://housing.hicbc.com/",
+      "officialLinkLabel": "公式サイト"
+    },
+    {
+      "id": "housing-04",
+      "prefecture": "愛知県",
+      "name": "朝日新聞総合住宅展示場 八事ハウジング",
+      "city": "名古屋市昭和区",
+      "officialUrl": "https://www.yutori.gr.jp/knowledge/find-house/house-exhibition/",
+      "officialLinkLabel": "会場情報"
+    },
+    {
+      "id": "housing-05",
+      "prefecture": "愛知県",
+      "name": "中京テレビハウジング 豊橋南",
+      "city": "豊橋市",
+      "officialUrl": "https://35s.co.jp/chukyotvh/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-06",
+      "prefecture": "愛知県",
+      "name": "とよたハウジングガーデン",
+      "city": "豊田市",
+      "officialUrl": "https://nha.or.jp/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-07",
+      "prefecture": "愛知県",
+      "name": "岡崎中日ハウジングセンター",
+      "city": "岡崎市",
+      "officialUrl": "https://www.chunichi-hc.ne.jp/event/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-08",
+      "prefecture": "愛知県",
+      "name": "ナゴヤハウジングセンター 一宮会場",
+      "city": "一宮市",
+      "officialUrl": "https://nha.or.jp/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-09",
+      "prefecture": "愛知県",
+      "name": "ナゴヤハウジングセンター 春日井会場",
+      "city": "春日井市",
+      "officialUrl": "https://nha.or.jp/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-10",
+      "prefecture": "愛知県",
+      "name": "ナゴヤハウジングセンター 半田会場",
+      "city": "半田市",
+      "officialUrl": "https://nha.or.jp/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-11",
+      "prefecture": "愛知県",
+      "name": "ナゴヤハウジングセンター 日進梅森会場",
+      "city": "日進市",
+      "officialUrl": "https://nha.or.jp/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-12",
+      "prefecture": "愛知県",
+      "name": "刈谷・知立ハウジングセンター",
+      "city": "知立市",
+      "officialUrl": "https://www.yutori.gr.jp/knowledge/find-house/house-exhibition/",
+      "officialLinkLabel": "会場情報"
+    },
+    {
+      "id": "housing-13",
+      "prefecture": "愛知県",
+      "name": "豊橋中日ハウジングセンター",
+      "city": "豊川市",
+      "officialUrl": "https://www.chunichi-hc.ne.jp/event/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-14",
+      "prefecture": "愛知県",
+      "name": "中京テレビハウジング 大府会場",
+      "city": "大府市",
+      "officialUrl": "https://35s.co.jp/chukyotvh/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-15",
+      "prefecture": "愛知県",
+      "name": "中京テレビハウジング 小牧会場",
+      "city": "小牧市",
+      "officialUrl": "https://35s.co.jp/chukyotvh/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-16",
+      "prefecture": "愛知県",
+      "name": "中京テレビハウジング 西尾会場",
+      "city": "西尾市",
+      "officialUrl": "https://35s.co.jp/chukyotvh/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-17",
+      "prefecture": "愛知県",
+      "name": "CBCハウジング 長久手住まいの公園",
+      "city": "長久手市",
+      "officialUrl": "https://housing.hicbc.com/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-18",
+      "prefecture": "愛知県",
+      "name": "CBCハウジング 蟹江インター住まいの公園",
+      "city": "海部郡蟹江町",
+      "officialUrl": "https://housing.hicbc.com/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-19",
+      "prefecture": "岐阜県",
+      "name": "岐阜ハウジングギャラリー 県庁前展示場",
+      "city": "岐阜市",
+      "officialUrl": "https://www.gifu-housinggallery.co.jp/event/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-20",
+      "prefecture": "岐阜県",
+      "name": "可児中日ハウジングセンター",
+      "city": "可児市",
+      "officialUrl": "https://www.chunichi-hc.ne.jp/event/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-21",
+      "prefecture": "岐阜県",
+      "name": "大垣中日ハウジングセンター",
+      "city": "大垣市",
+      "officialUrl": "https://www.chunichi-hc.ne.jp/event/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-22",
+      "prefecture": "岐阜県",
+      "name": "ハウジングパーク イオンモール土岐",
+      "city": "土岐市",
+      "officialUrl": null,
+      "officialLinkLabel": null
+    },
+    {
+      "id": "housing-23",
+      "prefecture": "岐阜県",
+      "name": "岐阜ハウジングギャラリー 各務原展示場",
+      "city": "各務原市",
+      "officialUrl": "https://www.gifu-housinggallery.co.jp/event/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-24",
+      "prefecture": "三重県",
+      "name": "中日新聞 津ハウジングセンター",
+      "city": "津市",
+      "officialUrl": "https://mie-house.com/kengakuday/",
+      "officialLinkLabel": "公式情報"
+    },
+    {
+      "id": "housing-25",
+      "prefecture": "三重県",
+      "name": "中日新聞 四日市ハウジングセンター",
+      "city": "四日市市",
+      "officialUrl": "https://mie-house.com/kengakuday/",
+      "officialLinkLabel": "公式情報"
+    },
+    {
+      "id": "housing-26",
+      "prefecture": "三重県",
+      "name": "中日新聞 桑名ハウジングセンター",
+      "city": "桑名市",
+      "officialUrl": "https://mie-house.com/kengakuday/",
+      "officialLinkLabel": "公式情報"
+    },
+    {
+      "id": "housing-27",
+      "prefecture": "三重県",
+      "name": "中日新聞 鈴鹿ハウジングセンター",
+      "city": "鈴鹿市",
+      "officialUrl": "https://mie-house.com/kengakuday/",
+      "officialLinkLabel": "公式情報"
+    },
+    {
+      "id": "housing-28",
+      "prefecture": "三重県",
+      "name": "ABCハウジング 名張住宅公園",
+      "city": "名張市",
+      "officialUrl": null,
+      "officialLinkLabel": null
+    },
+    {
+      "id": "housing-29",
+      "prefecture": "三重県",
+      "name": "中日新聞 伊勢・明和ハウジングセンター",
+      "city": "多気郡明和町",
+      "officialUrl": "https://mie-house.com/kengakuday/",
+      "officialLinkLabel": "公式情報"
+    },
+    {
+      "id": "housing-30",
+      "prefecture": "静岡県",
+      "name": "SBSマイホームセンター 御殿場展示場",
+      "city": "御殿場市",
+      "officialUrl": "https://www.sbs-mhc.co.jp/e-event/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-31",
+      "prefecture": "静岡県",
+      "name": "SBSマイホームセンター 三島展示場",
+      "city": "三島市",
+      "officialUrl": "https://www.sbs-mhc.co.jp/e-event/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-32",
+      "prefecture": "静岡県",
+      "name": "SBSマイホームセンター 富士展示場",
+      "city": "富士市",
+      "officialUrl": "https://www.sbs-mhc.co.jp/e-event/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-33",
+      "prefecture": "静岡県",
+      "name": "SBSマイホームセンター 静岡展示場",
+      "city": "静岡市",
+      "officialUrl": "https://www.sbs-mhc.co.jp/e-event/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-34",
+      "prefecture": "静岡県",
+      "name": "SBSマイホームセンター 藤枝展示場",
+      "city": "藤枝市",
+      "officialUrl": "https://www.sbs-mhc.co.jp/e-event/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-35",
+      "prefecture": "静岡県",
+      "name": "SBSマイホームセンター 浜松展示場",
+      "city": "浜松市",
+      "officialUrl": "https://www.sbs-mhc.co.jp/e-event/",
+      "officialLinkLabel": "公式イベント情報"
+    },
+    {
+      "id": "housing-36",
+      "prefecture": "静岡県",
+      "name": "浜北中日ハウジングセンター",
+      "city": "浜松市浜名区",
+      "officialUrl": "https://www.chunichi-hc.ne.jp/event/",
+      "officialLinkLabel": "公式イベント情報"
+    }
+  ]
+}
