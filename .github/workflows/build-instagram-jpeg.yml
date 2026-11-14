@@ -1,0 +1,34 @@
+name: Build Instagram ZIP with official images
+on:
+  push:
+    branches: [main]
+    paths:
+      - instagram_builder.py
+      - .github/workflows/build-instagram-jpeg.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Japanese fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto-cjk
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Pillow
+        run: python -m pip install --upgrade Pillow
+      - name: Build JPEG pages from official event images
+        run: python instagram_builder.py
+      - name: Commit ZIP for direct download
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add aichi_instagram_11_jpegs.zip
+          git commit -m "Build Instagram carousel ZIP with official images" || echo "No ZIP changes"
+          git push
